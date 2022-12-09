@@ -1,0 +1,51 @@
+.location {
+    display: flex;
+    gap: 20px;
+    margin: 40px 0px 0px 40px;
+    font-size: 14px;
+}
+
+.about {
+    width: 326px;
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+    justify-content: center;
+}
+
+.loc {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.loc--logo {
+    height: 10px;
+    width: 7px;
+}
+
+.country {
+    font-size: 11px;
+    letter-spacing: 0.17em;
+    margin-right: 5px;
+}
+
+.map {
+    color: #918E9B;    
+}
+
+.location--img {
+    width: 175px;
+    height: 235px;
+    border-radius: 5px;
+}
+
+.title {
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 18px;
+}
+
+.duration {
+    font-weight: 700;
+}

@@ -5,6 +5,7 @@ nav {
     align-items: center;
     justify-content: center;
     gap: 7px;
+    color: white;
 }
 
 #nav--img {

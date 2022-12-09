@@ -3,7 +3,6 @@ import logo from "../assets/logo.png";
 import "./Navbar.css";
 
 function Navbar() {
-    console.log(logo);
     return (
         <nav>
             <img src={logo} alt="Logo" id="nav--img" />
