@@ -1,0 +1,13 @@
+nav {
+    display: flex;
+    background: #F55A5A;
+    height: 55px;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+}
+
+#nav--img {
+    width: 24px;
+    height: 24px;
+}
